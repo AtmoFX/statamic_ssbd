@@ -36,7 +36,7 @@ return [
             'fields' => ['title', 'content'],
             'min_characters' => 3,
             'property_weights' => [ 
-                'date' => 1,
+                'date' => 1
             ],
         ],
 
